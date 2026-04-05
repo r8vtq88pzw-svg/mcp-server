@@ -1,0 +1,37 @@
+name: "@bitpoort/on-chain-data"
+description: "On-chain blockchain data for AI agents. 41 MCP tools for whale tracking, entity identification, DEX analysis, exchange flows, ML predictions, wallet profiling, direct Ethereum RPC, cross-chain signals, and semantic search across Ethereum, Bitcoin, and Hyperliquid."
+version: "3.4.1"
+
+server:
+  transport: sse
+  url: "https://bitpoort.com/mcp/sse"
+
+auth:
+  type: api_key
+  header: "x-api-key"
+  description: "Register at https://bitpoort.com/register for a free API key with $10 starting credit."
+
+metadata:
+  homepage: "https://bitpoort.com"
+  documentation: "https://bitpoort.com/docs"
+  logo: "https://bitpoort.com/logo.svg"
+  tags:
+    - blockchain
+    - ethereum
+    - bitcoin
+    - hyperliquid
+    - on-chain-data
+    - whale-tracking
+    - defi
+    - mev
+    - predictions
+    - exchange-flows
+    - smart-wallets
+    - rpc
+    - cross-chain
+    - token-discovery
+  categories:
+    - data
+    - analytics
+    - finance
+    - crypto
