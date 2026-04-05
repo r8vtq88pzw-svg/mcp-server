@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.bitpoort/on-chain-data",
   "title": "Bitpoort",
-  "description": "On-chain blockchain data for AI agents. 41 MCP tools for whale tracking, entity analysis, exchange flows, ML predictions, wallet profiling, direct Ethereum RPC, and cross-chain signals across Ethereum, Bitcoin, and Hyperliquid.",
+  "description": "On-chain blockchain data for AI agents across Ethereum, Bitcoin, and Hyperliquid.",
   "version": "3.4.1",
   "remotes": [
     {
